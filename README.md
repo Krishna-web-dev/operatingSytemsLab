@@ -1,3 +1,4 @@
-# operatingSytemsLab
-this repo is all about operating systems and its programs
-all programs are made usign fork and pid statement in c and c++ programing 
+--Operating systems lab assignment work --
+subject code - cse 317 
+submitted by -  181112106 (krishna singh verma) cse 5th sem MANIT BHOPAL
+submitted to -  MR. Vijay Bhaskar Semwal sir(cse department MANIT)
